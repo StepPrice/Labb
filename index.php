@@ -7,7 +7,7 @@
     <body>
 
     <?php>
-        echo blablabla
+        echo blablabla visual studio
 
     </?>
 
